@@ -9,7 +9,7 @@ Petit script pour jouer au jeu de Snake en utilisant Python.
 
 ## Prérequis 
 - Python 3
-- Time & Turtle ( ``pip install time`` & ``pip install turtle`` )
+- Turtle ( ``pip install turtle`` )
 
 ## Utilisation
 
