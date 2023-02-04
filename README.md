@@ -1,6 +1,6 @@
 # Snake en Python
 
-Petit script pour jouer au jeu de Snake en utilisant Python.
+Petit script pour jouer à Snake en utilisant Python.
 
 ## Features
 - Serpent contrôlable avec les flèches du clavier
